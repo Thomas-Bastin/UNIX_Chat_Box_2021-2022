@@ -3,6 +3,8 @@
 
 
 ## How to Install (Linux):
+1. Install MySQL and the database backup (sql file included).
+
 1. Install G++ Compiler <https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux>
 
 1. Install QT5 Library (QtWidgets - QtGui - QtCore) <https://linuxhint.com/install-qt-5-9-1-qt-creator-4-3-1-ubuntu/>
