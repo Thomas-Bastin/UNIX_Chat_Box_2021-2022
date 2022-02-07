@@ -11,7 +11,7 @@
 
 1. Install the repository where you want.
 
-1. Open command shell into the repository and type "make first" if it's the first install, or type "make".
+1. Open command shell into the repository and type make to compile.
 
 1. Run Server.app, you can now run Client.app (6 max) or Admin.app(1 max)
 
